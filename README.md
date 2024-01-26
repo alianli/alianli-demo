@@ -1,3 +1,4 @@
 # alianli-demo
-This is my first Git repository
-Author Kangkana Das
+This is my first Git repository.
+<br>
+Author-Kangkana Das
